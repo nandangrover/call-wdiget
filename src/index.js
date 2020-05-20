@@ -4,7 +4,7 @@ import './index.css';
 import Widget from './Widget';
 
 const root = document.createElement('DIV');
-document.body.appendChild(root);
+document.body.appendChild(root)
 
 ReactDOM.render(
   <React.StrictMode>
